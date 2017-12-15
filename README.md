@@ -1,2 +1,2 @@
-# GR4-State-space (verion 1.0)
+# GR4-State-space (version 1.0)
 Run the state-space version of GR4 (version 1.0)
